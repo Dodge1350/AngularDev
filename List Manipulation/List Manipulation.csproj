@@ -43,6 +43,10 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="Controllers\ListController.js" />
+    <Content Include="Models\ListModel.js" />
+    <Content Include="Services\SharePointService.js" />
+    <Content Include="Views\ListView.html" />
     <None Include="Content\bootstrap-theme.css.map" />
     <None Include="Content\bootstrap.css.map" />
     <None Include="fonts\glyphicons-halflings-regular.eot" />
@@ -117,6 +121,7 @@
       <SubType>Designer</SubType>
     </AppManifestFile>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

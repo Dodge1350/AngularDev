@@ -5,5 +5,9 @@
     <File Path="fonts\glyphicons-halflings-regular.ttf" Url="fonts/glyphicons-halflings-regular.ttf" ReplaceContent="TRUE" />
     <File Path="fonts\glyphicons-halflings-regular.svg" Url="fonts/glyphicons-halflings-regular.svg" ReplaceContent="TRUE" />
     <File Path="fonts\glyphicons-halflings-regular.eot" Url="fonts/glyphicons-halflings-regular.eot" ReplaceContent="TRUE" />
+    <File Path="Services\SharePointService.js" Url="Services/SharePointService.js" ReplaceContent="TRUE" />
+    <File Path="Models\ListModel.js" Url="Models/ListModel.js" ReplaceContent="TRUE" />
+    <File Path="Views\ListView.html" Url="Views/ListView.html" ReplaceContent="TRUE" />
+    <File Path="Controllers\ListController.js" Url="Controllers/ListController.js" ReplaceContent="TRUE" />
   </Module>
 </Elements>

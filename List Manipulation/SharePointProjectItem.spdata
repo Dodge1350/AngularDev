@@ -6,5 +6,9 @@
     <ProjectItemFile Source="fonts\glyphicons-halflings-regular.ttf" Target="fonts\" Type="ElementFile" />
     <ProjectItemFile Source="fonts\glyphicons-halflings-regular.svg" Target="fonts\" Type="ElementFile" />
     <ProjectItemFile Source="fonts\glyphicons-halflings-regular.eot" Target="fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="Services\SharePointService.js" Target="Services\" Type="ElementFile" />
+    <ProjectItemFile Source="Models\ListModel.js" Target="Models\" Type="ElementFile" />
+    <ProjectItemFile Source="Views\ListView.html" Target="Views\" Type="ElementFile" />
+    <ProjectItemFile Source="Controllers\ListController.js" Target="Controllers\" Type="ElementFile" />
   </Files>
 </ProjectItem>

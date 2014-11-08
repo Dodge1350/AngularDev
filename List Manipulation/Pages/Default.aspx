@@ -22,7 +22,11 @@
     <script type="text/javascript" src="../Scripts/angular.js"></script>
     <script type="text/javascript" src="../Scripts/angular-mocks.js"></script>
     <script type="text/javascript" src="../Scripts/bootstrap.js"></script>
-    <script type="text/javascript" src="../Scripts/App.js"></script>
+
+    <%--Add javascript models, controllers, views and services--%>
+    <script type="text/javascript" src="../Models/ListModel.js"></script>
+    <script type="text/javascript" src="../Controllers/ListController.js"></script>
+    <script type="text/javascript" src="../Services/SharePointService.js"></script>
 </asp:Content>
 
 <%-- The markup in the following Content element will be placed in the TitleArea of the page --%>
