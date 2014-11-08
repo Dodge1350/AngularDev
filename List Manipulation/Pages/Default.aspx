@@ -14,9 +14,14 @@
     <meta name="WebPartPageExpansion" content="full" />
 
     <!-- Add your CSS styles to the following file -->
+    <link rel="Stylesheet" type="text/css" href="../Content/bootstrap.css" />
+    <link rel="Stylesheet" type="text/css" href="../Content/bootstrap-theme.css" />
     <link rel="Stylesheet" type="text/css" href="../Content/App.css" />
 
     <!-- Add your JavaScript to the following file -->
+    <script type="text/javascript" src="../Scripts/angular.js"></script>
+    <script type="text/javascript" src="../Scripts/angular-mocks.js"></script>
+    <script type="text/javascript" src="../Scripts/bootstrap.js"></script>
     <script type="text/javascript" src="../Scripts/App.js"></script>
 </asp:Content>
 
