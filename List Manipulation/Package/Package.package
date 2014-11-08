@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="81aa6d1b-f7ca-48a7-8ee0-c83f0d606c0e" 
+        solutionId="81aa6d1b-f7ca-48a7-8ee0-c83f0d606c0e" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="List_Manipulation"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="14f4e6da-ea56-4053-be99-2b01d35c757d" />
+  </features>
+</package>
