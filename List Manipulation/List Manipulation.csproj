@@ -43,8 +43,16 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="Content\ng-grid.css" />
+    <Content Include="Content\ng-grid.min.css" />
     <Content Include="Controllers\ListController.js" />
     <Content Include="Models\ListModel.js" />
+    <Content Include="Scripts\angular-sanitize.js" />
+    <Content Include="Scripts\angular-sanitize.min.js" />
+    <Content Include="Scripts\angular-ui-router.js" />
+    <Content Include="Scripts\angular-ui-router.min.js" />
+    <Content Include="Scripts\ng-grid.js" />
+    <Content Include="Scripts\ng-grid.min.js" />
     <Content Include="Services\SharePointService.js" />
     <Content Include="Views\ListView.html" />
     <None Include="Content\bootstrap-theme.css.map" />
@@ -64,6 +72,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Pages\Elements.xml" />
     <Content Include="Pages\Default.aspx" />
+    <None Include="Scripts\angular-sanitize.min.js.map" />
     <None Include="SharePointProjectItem.spdata">
       <SharePointProjectItemId>{98baf9bf-cc8a-4434-9e38-756ba0749163}</SharePointProjectItemId>
     </None>

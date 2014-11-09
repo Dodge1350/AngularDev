@@ -9,5 +9,7 @@
     <ProjectItemFile Source="bootstrap.min.css" Target="Content\" Type="ElementFile" />
     <ProjectItemFile Source="bootstrap.css.map" Target="Content\" Type="ElementFile" />
     <ProjectItemFile Source="bootstrap.css" Target="Content\" Type="ElementFile" />
+    <ProjectItemFile Source="ng-grid.min.css" Target="Content\" Type="ElementFile" />
+    <ProjectItemFile Source="ng-grid.css" Target="Content\" Type="ElementFile" />
   </Files>
 </ProjectItem>

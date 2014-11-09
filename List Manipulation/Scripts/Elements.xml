@@ -12,5 +12,12 @@
     <File Path="Scripts\angular.js" Url="Scripts/angular.js" ReplaceContent="TRUE" />
     <File Path="Scripts\bootstrap.min.js" Url="Scripts/bootstrap.min.js" ReplaceContent="TRUE" />
     <File Path="Scripts\bootstrap.js" Url="Scripts/bootstrap.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular-ui-router.min.js" Url="Scripts/angular-ui-router.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular-ui-router.js" Url="Scripts/angular-ui-router.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\ng-grid.min.js" Url="Scripts/ng-grid.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\ng-grid.js" Url="Scripts/ng-grid.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular-sanitize.min.js.map" Url="Scripts/angular-sanitize.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular-sanitize.min.js" Url="Scripts/angular-sanitize.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular-sanitize.js" Url="Scripts/angular-sanitize.js" ReplaceContent="TRUE" />
   </Module>
 </Elements>
